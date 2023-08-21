@@ -1,0 +1,5 @@
+19
+~E 1 "../src/main.vhd" 5 Single_port_RAM_VHDL
+~A 1 "../src/main.vhd" 17 Behavioral
+~E 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 5 tb_RAM_VHDL
+~A 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 8 behavior

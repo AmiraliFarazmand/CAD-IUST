@@ -1,0 +1,12 @@
+12
+~E 1 "../src/32More.vhd" 4 module_moore
+~A 1 "../src/32More.vhd" 9 Behavioral
+~E 1 "../src/TestBench/module_moore_TB.vhd" 6 module_moore_tb
+~A 1 "../src/TestBench/module_moore_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "../src/32More.vhd" 5 moore
+~A 1 "../src/32More.vhd" 15 behavioral
+~E 1 "../src/32More.vhd" 5 more
+~E 1 "../src/32More.vhd" 5 shift_and_add
+~A 1 "../src/32More.vhd" 12 rtl
+~C 1 "../src/TestBench/module_moore_TB.vhd" 54 testbench_for_module_moore
+~E 1 "../src/32More.vhd" 5 top_level

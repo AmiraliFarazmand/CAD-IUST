@@ -1,0 +1,83 @@
+timestamp=1687976061377
+
+[~A]
+ModifyID=12
+Version=74
+
+[~MFT]
+0=10|0MooreMachine.mgf|17672|6966
+1=4|1MooreMachine.mgf|16936|10778
+3=2|3MooreMachine.mgf|7477|4092
+
+[module_moore]
+A/behavioral=A/Behavioral 21|../src/32More.vhd|9|1*0
+BinW64/behavioral=3*0
+I=0*522
+I/behavioral=I/Behavioral 0*2430
+M=11|2|vef|1687959681861|../src/32More.vhd|0*200*0x6069c46ce69117f76e37f39ad29c816383922fd1|0*439*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1687959681865|../src/32More.vhd|0*728*0x77ae66ec93c93841e6905b81b85d27e1e5123f86|0*2333*0x20116f55b147878295aeff36dce7fc50
+R=../src/32More.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|72b8eade2b76e7bc9e49b9141ad987f4ee96e271025a3375e1efc9f202784d61fcfaa6739b8bd7c3b91adb76070f903e
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4b49f28e985ce446dff7ce46b9873229e
+
+[module_moore_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/module_moore_TB.vhd|9|1*15686
+BinW64/tb_architecture=3*7477
+I=0*8736
+I/tb_architecture=I/TB_ARCHITECTURE 0*17409
+M=11|2|vef|1687974856267|../src/TestBench/module_moore_TB.vhd|0*8428*0xf6b438f8ba992287f77a5a25bb7fe77270384fea|0*8631*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1687976061328|../src/TestBench/module_moore_TB.vhd|0*16581*0xaf22120eb16a1cb16aaf2db583a1b2db8b341e56|0*17285*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/module_moore_TB.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|0543c12ca1de3b10747db1fa6af6c4b4e70d12391d4f016714c6dad612cda863beb4f0e198c179c2360db3e661528b05
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea869b1a6d60aff72364e57d8de1b45a90
+
+[moore]
+A/behavioral=21|../src/32More.vhd|15|1*11939
+BinW64/behavioral=3*5913
+I=0*5969
+I/behavioral=0*15894
+M=11|2|vef|1687974554756|../src/32More.vhd|0*5615*0x9d806607c17a2f896067e1476192bc12cceefc9c|0*5893*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=21|2|vef|1687975883293|../src/32More.vhd|0*11875*0x41c545d7a6d01ae8e31eb12df297a435dd2a1c64|0*13829*0x20116f55b147878295aeff36dce7fc50
+R=../src/32More.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|e05e201e780ad24bd2d9f4a15861e3ac540ef280287ab23367e37f83563cad47
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff46663f0c47d6523076d04a2900c0d456a
+
+[more]
+I=0*5191
+M=11|2|vef|1687972514718|../src/32More.vhd|0*4841*0xdb2cb889a8693decfbc4ce592f38131a8156a69c|0*5116*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/32More.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|2f12fdfbe3702dcbeff0118af34b7819150abd1e3a83c65f967ffa980af97c82
+
+[shift_and_add]
+A/rtl=21|../src/32More.vhd|12|1*2143
+BinW64/rtl=3*1558
+I=0*3857
+I/rtl=0*4406
+M=11|2|vef|1687971289490|../src/32More.vhd|0*3487*0x81580f9a0d20d8cd6a891693a876d63ddc9ab755|0*3773*0x23b75c12e3e89f2ef000564498faa8c2
+M/rtl=21|2|vef|1687971289493|../src/32More.vhd|0*4104*0xa99cd8626ae7052ee1d2e64394128780df5fb0cd|0*4315*0x20116f55b147878295aeff36dce7fc50
+R=../src/32More.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|660c0eb4c0ef84a91e7d0ef219bfc77d702705f6faeb09352044c8516024f4ca144710c3b35802ba5f0fd5d00c1a32c2
+Version/rtl=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|9dbb47eebe7da777b751efca131652c53537c81387f2e493163ddb825bb72a5a
+
+[testbench_for_module_moore]
+Configures=module_moore_tb.TB_ARCHITECTURE
+E=1*16936
+I=0*17672
+M=2|2|vef|1687976061345|../src/TestBench/module_moore_TB.vhd|0*15260*0xf3e584c64d01e326aec7e9ff46b18ed632e01c33|0*15586*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/module_moore_TB.vhd|54
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5195ed6568826f996478cc554adbe79df4dedcd32f27032092be0cb2eab5965d88efb4b42363041e8f496b21867047df6
+
+[top_level]
+I=0*3033
+M=11|2|vef|1687970894266|../src/32More.vhd|0*2771*0x57ea380de32c4ac2fa4da7d541e92a6ae02a4ab0|0*2953*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/32More.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|b4ae72d571d1e85f705846bdbab8608be2c2a0e3cfa45d8b8aca422b22670e71caa9e62b9d9528591e48af9feac3d33a
+
+[~U]
+module_moore=11|0*0|
+module_moore_tb=11|0*8292|
+moore=11|0*5429|
+more=11|0*4657|
+shift_and_add=11|0*3276|
+testbench_for_module_moore=TESTBENCH_FOR_module_moore 2||
+top_level=11|0*2647|

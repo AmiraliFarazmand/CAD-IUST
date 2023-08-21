@@ -1,0 +1,15 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+MooreMachine=0
+[COMPILESTATUS|.\src\32More.vhd]
+FileTimeLow=3186966396
+FileTimeHigh=31042027
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\module_moore_TB.vhd]
+FileTimeLow=1504579309
+FileTimeHigh=31042028
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\module_moore_TB_runtest.do]
+FileTimeLow=861934115
+FileTimeHigh=31042025
+Status=Modified
